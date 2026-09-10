@@ -1,6 +1,7 @@
 #Dynamic & Responsive FAQs Accordion design  
 ---
 This design used HTML, CSS and JavaScript. It's dynamic so it responds to user's clicks by expanding and contracting the answer part.  
+
 #Working  
 ---
 The QnA container divs have an event-Listener attached to them which looks for click event.  
